@@ -3,3 +3,6 @@ This is my final project for the Artificial Intelligence course (CIE 458) in UST
 
 ## Project Description:
 You will find the detailed description with the actual steps if you want to duplicate the project in the following link: https://inst.eecs.berkeley.edu/~cs188/sp20/project2/
+
+## Project Documentation:
+You will find the detailed documentation for this project in the folder "Project report".
