@@ -6,3 +6,6 @@ You will find the detailed description with the actual steps if you want to dupl
 
 ## Project Documentation:
 You will find the detailed documentation for this project in the folder "Project report".
+
+![image](https://user-images.githubusercontent.com/50876277/119615314-8c1db780-bdff-11eb-8580-1d0aaaee68cd.png)
+
